@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "title": "Title One",
@@ -10,3 +11,4 @@
     "body": "Suspendisse potenti. Pellentesque at ornare ex. Phasellus dictum elit tortor. Integer vel eros eget mi dictum porttitor eget ultricies justo. Morbi vel lobortis turpis, vitae pellentesque enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla bibendum quam, ac pharetra leo vehicula ac. Duis vel neque neque. Aenean ac sollicitudin mi. Suspendisse sed tortor et justo vulputate faucibus."
   }
 ]
+}
