@@ -1,16 +1,16 @@
 {
   "files": [
   {
-    url: 'http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf',
-    name: 'pdf-sample.pdf'
+    "url": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+    "name": "pdf-sample.pdf"
   },
   {
-    url: 'http://www.orimi.com/pdf-test.pdf',
-    name: 'test.pdf'
+    "url": "http://www.orimi.com/pdf-test.pdf",
+    "name": "test.pdf"
   },
   {
-    url: 'http://www.africau.edu/images/default/sample.pdf',
-    name: 'sample.pdf'
+    "url": "http://www.africau.edu/images/default/sample.pdf",
+    "name": "sample.pdf"
   }
 ]
 }
